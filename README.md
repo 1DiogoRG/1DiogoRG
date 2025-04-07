@@ -5,7 +5,7 @@
 
 <div style="width: 100%">
 <img src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?w=414&h=280&crop=1" alt="Minha Imagem ;-;">
-<img src="https://vm.tiktok.com/ZMBQSQNC3/" alt="Edit dos Marks">
+<img src="https://pin.it/5qMfmGqQD" alt="imagem do mark">
 </div>
 
 ###
