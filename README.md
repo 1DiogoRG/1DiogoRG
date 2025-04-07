@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Minhas Linguagens 📖</h2>
+<h2 align="left">Linguagens 📖</h2>
 
 ###
 ###
