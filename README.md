@@ -17,8 +17,8 @@
 <div style="display: flex; align-items: center; justify-content: space-between; width="100%">
    <!--Linguagens-->
    <div style="display: flex; align-items: center; gap: 12px;">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="Logo do html5" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="Logo do css3" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Logo do javascript" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="Logo do html5" title="Logo HTML5" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="Logo do css3" title="Logo CSS3" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Logo do javascript" title="Logo JAVASCRIPT" />
    </div>
 </div>
