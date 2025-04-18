@@ -5,6 +5,7 @@
 
 <div style="width: 100%">
 <img src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?w=414&h=280&crop=1" alt="Minha Imagem ;-;">
+   <img src="https://br.pinterest.com/pin/80642649572342863/sent/?invite_code=5afe453c4b354c4288bd96bd9e4d5eb7&sender=938226672279318954&sfo=1">
 </div>
 
 ###
@@ -21,5 +22,3 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Logo do javascript" title="Logo JAVASCRIPT" />
    </div>
 </div>
-
-<img src="https://br.pinterest.com/pin/80642649572342863/sent/?invite_code=5afe453c4b354c4288bd96bd9e4d5eb7&sender=938226672279318954&sfo=1">
