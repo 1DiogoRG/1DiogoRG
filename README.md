@@ -5,7 +5,7 @@
 
 <div style="width: 100%">
 <img src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?w=414&h=280&crop=1" alt="Minha Imagem ;-;">
-   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Finvincible-11%2F&psig=AOvVaw1RlH7kAmd4RvSwjVhzjSOz&ust=1746320436043000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCmiNyMho0DFQAAAAAdAAAAABAQ">
+   <img src="https://www.icegif.com/invincible-11/#google_vignette">
 </div>
 
 ###
