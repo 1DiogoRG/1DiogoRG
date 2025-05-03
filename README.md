@@ -5,7 +5,7 @@
 
 <div style="width: 100%">
 <img src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?w=414&h=280&crop=1" alt="Minha Imagem ;-;">
-   <img src="https://motionbgs.com/media/5518/meguru-bachira.jpg" width="350" height="350">
+   <img src="https://motionbgs.com/media/5518/meguru-bachira.jpg" width="500" height="500">
 </div>
 
 ###
