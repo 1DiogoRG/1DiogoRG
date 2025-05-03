@@ -16,10 +16,10 @@
 <div style="display: flex; align-items: center; justify-content: space-between; width="100%">
    <!--Linguagens-->
    <div style="display: flex; align-items: center; gap: 12px;">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="Logo do html5" title="Logo HTML5" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="Logo do css3" title="Logo CSS3" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="Logo do javascript" title="Logo JAVASCRIPT" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"alt="Logo do python" title="Logo PYTHON" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60" alt="Logo do java" title="Logo JAVA" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="Logo do html5" title="Logo HTML5" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="Logo do css3" title="Logo CSS3" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="Logo do javascript" title="Logo JAVASCRIPT" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"alt="Logo do python" title="Logo PYTHON" />
+     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="Logo do java" title="Logo JAVA" /> -->
    </div>
 </div>
