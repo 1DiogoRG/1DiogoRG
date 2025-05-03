@@ -20,6 +20,6 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="Logo do css3" title="Logo CSS3" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Logo do javascript" title="Logo JAVASCRIPT" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"alt="Logo do python" title="Logo PYTHON" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" height="40" alt="Logo do java" title="Logo JAVA" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Logo do java" title="Logo JAVA" />
    </div>
 </div>
