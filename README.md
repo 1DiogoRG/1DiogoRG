@@ -22,3 +22,6 @@
      <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="Logo do java" title="Logo JAVA" /> -->
    </div>
 </div>
+
+## Projetos em destaque:
+- [**Meu Portfólio**](https://1diogorg.github.io/Portfolio/)
