@@ -23,5 +23,8 @@
    </div>
 </div>
 
-## Projetos em destaque:
+## Projeto em destaque:
 - [**Meu Portfólio**](https://1diogorg.github.io/Portfolio/)
+- [**Calculadora 2.0**](https://1diogorg.github.io/calculadora-2.0/)
+- [**Cartão do dia das mães**](https://1diogorg.github.io/Cart-o-Dia-das-M-es/)
+- [**Loja Diio**](https://1diogorg.github.io/Lojinha-0.2/)
