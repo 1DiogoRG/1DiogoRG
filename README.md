@@ -35,4 +35,5 @@
 - [**Loja Diio**](https://1diogorg.github.io/Lojinha-0.2/)
 <p style="color: gray; font-size: 15px;">Mais protejos futuramente!</p>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
+## Linguagens que mais uso:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva&layout=compact&langs_count=6&theme=radical)
