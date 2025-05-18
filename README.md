@@ -1,5 +1,10 @@
 ## Olá! Bem vindo ao meu Github!! 💵
-## Me chamo Diogo 
+<svg width="100%" height="100">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="40" fill="none" stroke="black" stroke-width="1">
+    <animate attributeName="stroke-dashoffset" values="1000;0" dur="4s" repeatCount="indefinite" />
+    Me chamo Diogo Rodrigues
+  </text>
+</svg>
 
 ###
 
