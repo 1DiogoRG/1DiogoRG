@@ -8,6 +8,8 @@
 
 ###
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1DiogoRG&layout=compact&langs_count=10&theme=tokyonight)
+
 <div style="width: 100%">
 <img src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?w=414&h=280&crop=1" alt="Minha Imagem ;-;">
 
@@ -34,7 +36,3 @@
 - [**Cartão do dia das mães**](https://1diogorg.github.io/Cart-o-Dia-das-M-es/)
 - [**Loja Diio**](https://1diogorg.github.io/Lojinha-0.2/)
 <p style="color: gray; font-size: 15px;">Mais protejos futuramente!</p>
-
-## Linguagens mais usadas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1DiogoRG&layout=compact&langs_count=10&theme=tokyonight)
-
