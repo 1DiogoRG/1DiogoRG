@@ -1,6 +1,6 @@
 # 👋 Olá, seja bem-vindo(a) ao meu GitHub!
 
-Me chamo **Diogo Rodrigues** e aqui você encontrará alguns dos meus projetos e experiências com desenvolvimento web e programação.
+Me chamo **Diogo Rodrigues** e aqui você encontrará minhas experiências com desenvolvimento web e programação.
 
 ---
 
@@ -38,4 +38,4 @@ Me chamo **Diogo Rodrigues** e aqui você encontrará alguns dos meus projetos e
 
 ## 🛠️ Em breve...
 
-Mais projetos serão adicionados futuramente. Fique ligado! 🚧
+Mais projetos serão adicionados futuramente! 🚧
