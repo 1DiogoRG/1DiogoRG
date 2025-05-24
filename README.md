@@ -36,6 +36,14 @@ Me chamo **Diogo Rodrigues** e aqui você encontrará minhas experiências com d
 
 ---
 
+## 🤝 Meus Parceiros
+
+- 🍷 [@natanaelpc](https://github.com/natanaelpc)
+- 🍷 [@Petrusphp](https://github.com/Petrusphp)
+- 🍷 [@JVictor-08](https://github.com/JVictor-08)
+
+---
+
 ## 🛠️ Em breve...
 
 Mais projetos serão adicionados futuramente! 🚧
