@@ -1,6 +1,9 @@
 # 👋 Olá, seja bem-vindo(a) ao meu GitHub!
 
-Me chamo **Diogo Rodrigues** e aqui você encontrará minhas experiências com desenvolvimento web e programação.
+Me chamo **Diogo Rodrigues** e aqui você encontrará minhas experiências com desenvolvimento web e programação
+
+A vida é curta, mas os bugs são eternos
+Café, Código, Repita
 
 ---
 
