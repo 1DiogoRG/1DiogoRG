@@ -2,7 +2,7 @@
 
 Me chamo **Diogo Rodrigues** e aqui você encontrará minhas experiências com desenvolvimento web e programação
 
-A vida é curta, mas os bugs são eternos
+A vida é curta, mas os bugs são eternos <br>
 Café, Código, Repita
 
 ---
