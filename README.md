@@ -59,10 +59,10 @@ Café, Código, Repita.
 Agradeço aos professores **Francisco** e **Márcio**, que têm sido fontes de inspiração e grande apoio na minha jornada com a programação.
 Com seus ensinamentos, estou apredendo a construir não só sistemas melhores, mas também um futuro.
 <div style="color: red;">
-  public class agradecimentos {
-    public static void main(String[] args) {
-      System.out.println("Hello Francisco and Marcio");
-    }
+  public class agradecimentos { <br>
+    public static void main(String[] args) { <br>
+      System.out.println("Hello Francisco and Marcio"); <br>
+    } <br>
   }
 </div>
 
