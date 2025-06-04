@@ -4,7 +4,7 @@ Me chamo **Diogo Rodrigues** e aqui você encontrará minhas experiências com d
 
 🎓 Tenho **16 anos** e sou um estudante apaixonado por tecnologia, sempre em busca de aprender e evoluir como desenvolvedor.
 
-💻 Atualmente estou focado em **Programação Web** e **Banco de Dados**, explorando formas de criar soluções eficientes, funcionais e com um bom design.
+💻 Atualmente estou focado em **Programação Web**, **Banco de Dados** e também em **UX Design utilizando Figma**, buscando criar soluções eficientes, funcionais e com boa experiência para o usuário.
 
 ☕ Minha linguagem de programação favorita é o **Java**, pela sua robustez, versatilidade e por ser fortemente orientada a objetos — permitindo aplicar conceitos como **herança**, **encapsulamento**, **abstração** e **polimorfismo**, que tornam o código mais organizado e reutilizável.
 
