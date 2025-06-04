@@ -58,7 +58,6 @@ Café, Código, Repita.
 
 Agradeço aos professores **Francisco** e **Márcio**, que têm sido fontes de inspiração e grandes incentivadores da minha jornada com a programação.  
 Com seus ensinamentos, estou aprendendo a construir não só sistemas melhores, mas também um futuro.
-Esses caras são demais mano...
 
 ```java
 public class Agradecimentos {
@@ -67,6 +66,7 @@ public class Agradecimentos {
     }
 }
 ```
+Esses caras são demais mano...
 ---
 
 ## 🛠️ Em breve...
