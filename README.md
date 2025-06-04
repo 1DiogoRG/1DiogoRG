@@ -56,8 +56,9 @@ Café, Código, Repita.
 
 ## 👨‍🏫 Agradecimentos
 
-Agradeço aos professores **Francisco Jucie** e **Márcio**, que têm sido fontes de inspiração e grandes incentivadores da minha jornada com a programação.  
-Com seus ensinamentos, estou aprendendo a construir não só sistemas melhores, mas também um futuro sólido.
+Agradeço aos professores **Francisco** e **Márcio**, que têm sido fontes de inspiração e grandes incentivadores da minha jornada com a programação.  
+Com seus ensinamentos, estou aprendendo a construir não só sistemas melhores, mas também um futuro.
+Esses caras são demais mano...
 
 ```java
 public class Agradecimentos {
