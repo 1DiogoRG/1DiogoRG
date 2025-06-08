@@ -43,7 +43,7 @@ Café, Código, Repita.
 - 🧮 [Calculadora 2.0](https://1diogorg.github.io/calculadora-2.0/)
 - 💌 [Cartão do Dia das Mães](https://1diogorg.github.io/Cart-o-Dia-das-M-es/)
 - 🛍️ [Loja Diio](https://1diogorg.github.io/Lojinha-0.2/)
-- 📆 [Listas-Tarefas](https://1diogorg.github.io/Lista-Tarefas/)
+- 📆 [Listas de Tarefas](https://1diogorg.github.io/Lista-Tarefas/)
 
 ---
 
