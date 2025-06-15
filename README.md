@@ -44,7 +44,7 @@ Café, Código, Repita.
 - 💌 [Cartão do Dia das Mães](https://1diogorg.github.io/Cart-o-Dia-das-M-es/)
 - 🛍️ [Loja Diio](https://1diogorg.github.io/Lojinha-0.2/)
 - 📆 [Listas de Tarefas](https://1diogorg.github.io/Lista-Tarefas/)
-- 🍔 [App Delivery](https://1diogorg.github.io/Projeto-Figma/) <h4 style="color: yellow;">NEW</h4>
+- 🍔 [App Delivery](https://1diogorg.github.io/Projeto-Figma/)
 
 ---
 
