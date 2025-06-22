@@ -40,6 +40,7 @@ Café, Código, Repita.
 ## 🧩 Projetos em destaque
 
 - 🔗 [Meu Portfólio](https://1diogorg.github.io/Portfolio/)
+- 🔗 [Meu Portfólio 0.3 - Atualizado](https://1diogorg.github.io/Portfolio-0.3/)
 - 🧮 [Calculadora 2.0](https://1diogorg.github.io/calculadora-2.0/)
 - 💌 [Cartão do Dia das Mães](https://1diogorg.github.io/Cart-o-Dia-das-M-es/)
 - 🛍️ [Loja Diio](https://1diogorg.github.io/Lojinha-0.2/)
