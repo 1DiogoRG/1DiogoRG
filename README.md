@@ -47,6 +47,7 @@ Café, Código, Repita.
 - 📆 [Listas de Tarefas](https://1diogorg.github.io/Lista-Tarefas/)
 - 🍔 [App Delivery](https://1diogorg.github.io/Projeto-Figma/)
 - 🎵 [Spotify Gratis](https://1diogorg.github.io/Clone-spotify/)
+- 👀 [Projetinho HeHeHe](https://1diogorg.github.io/Projetinho--/)
 - Mais projetos depois...
 
 ---
