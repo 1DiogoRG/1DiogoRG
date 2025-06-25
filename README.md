@@ -48,7 +48,7 @@ Café, Código, Repita.
 - 🍔 [App Delivery](https://1diogorg.github.io/Projeto-Figma/)
 - 🎵 [Spotify Gratis](https://1diogorg.github.io/Clone-spotify/)
 - 👀 [Projetinho HeHeHe](https://1diogorg.github.io/Projetinho--/)
-- ⭐ [Nostalgia](https://1diogorg.github.io/song-nostalgia/)
+- ⭐ [Nostalgia](https://1diogorg.github.io/Projeto-Nostalgia/)
 - Mais projetos depois...
 
 ---
