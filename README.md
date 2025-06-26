@@ -44,6 +44,7 @@ Café, Código, Repita.
 - 🧮 [Calculadora 2.0](https://1diogorg.github.io/calculadora-2.0/)
 - 💌 [Cartão do Dia das Mães](https://1diogorg.github.io/Cart-o-Dia-das-M-es/)
 - 🛍️ [Loja Diio](https://1diogorg.github.io/Lojinha-0.2/)
+- 💻 [Loja PCs](https://1diogorg.github.io/loja-PCs/)
 - 📆 [Listas de Tarefas](https://1diogorg.github.io/Lista-Tarefas/)
 - 🍔 [App Delivery](https://1diogorg.github.io/Projeto-Figma/)
 - 🎵 [Spotify Gratis](https://1diogorg.github.io/Clone-spotify/)
