@@ -62,21 +62,6 @@ Café, Código, Repita.
 
 ---
 
-## 👨‍🏫 Agradecimentos
-
-Agradeço aos professores **Francisco** e **Márcio**, que têm sido fontes de inspiração e grandes incentivadores da minha jornada com a programação.  
-Com seus ensinamentos, estou aprendendo a construir não só sistemas melhores, mas também um futuro. <br>
-Esses caras são demais mano...
-
-```java
-public class Agradecimentos {
-    public static void main(String[] args) {
-        System.out.println("Hello, Francisco and Márcio!");
-    }
-}
-```
----
-
 ## 🛠️ Em breve...
 
 Mais projetos serão adicionados futuramente! 🚧
