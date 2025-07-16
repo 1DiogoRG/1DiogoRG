@@ -1,6 +1,6 @@
 # 👋 Olá, seja bem-vindo(a) ao meu GitHub!
 
-Me chamo **Diogo Rodrigues** e aqui você encontrará minhas experiências com desenvolvimento web e programação.
+Me chamo **Diogo** e aqui você encontrará minhas experiências com desenvolvimento web e programação.
 
 🎓 Tenho **16 anos** e sou um estudante apaixonado por tecnologia, sempre em busca de aprender e evoluir como desenvolvedor.
 
@@ -48,8 +48,6 @@ Café, Código, Repita.
 - 📆 [Listas de Tarefas](https://1diogorg.github.io/Lista-Tarefas/)
 - 🍔 [App Delivery](https://1diogorg.github.io/Projeto-Figma/)
 - 🎵 [Spotify Gratis](https://1diogorg.github.io/Clone-spotify/)
-- 👀 [Projetinho HeHeHe](https://1diogorg.github.io/Projetinho--/)
-- ⭐ [Nostalgia](https://1diogorg.github.io/Projeto-Nostalgia/)
 - Mais projetos depois...
 
 ---
