@@ -1,65 +1,81 @@
-# 👋 Olá, seja bem-vindo(a) ao meu GitHub!
+<h1 align="center">👋 Bem-vindo(a) ao meu GitHub!</h1>
 
-Me chamo **Diogo** e aqui você encontrará minhas experiências com desenvolvimento web e programação.
-
-🎓 Tenho **16 anos** e sou um estudante apaixonado por tecnologia, sempre em busca de aprender e evoluir como desenvolvedor.
-
-💻 Atualmente estou focado em **Programação Web**, **Banco de Dados** e também em **UX Design utilizando Figma**, buscando criar soluções eficientes, funcionais e com boa experiência para o usuário.
-
-☕ Minha linguagem de programação favorita é o **Java**, pela sua robustez, versatilidade e por ser fortemente orientada a objetos — permitindo aplicar conceitos como **herança**, **encapsulamento**, **abstração** e **polimorfismo**, que tornam o código mais organizado e reutilizável.
-
-A vida é curta, mas os bugs são eternos.  
-Café, Código, Repita.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+me+chamo+Diogo!;Desenvolvedor+Web+em+formação;Amante+de+Java,+café+e+código!&center=true&width=500&height=40&color=F11C1C&pause=1000" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Linguagens mais utilizadas
+## 🧑‍💻 Sobre mim
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=1DiogoRG&layout=compact&theme=radical)
+Olá! Me chamo **Diogo**, tenho **16 anos** e sou um estudante apaixonado por tecnologia.  
+Busco sempre evoluir como desenvolvedor, explorando o mundo da **Programação Web**, **Banco de Dados** e **UX Design com Figma**.
 
-- **Python**: 55.35%  
-- **HTML**: 20.47%  
-- **CSS**: 16.62%  
-- **JavaScript**: 6.60%  
-- **TypeScript**: 0.96%
+Sou fã de soluções que unem funcionalidade, organização e uma boa experiência para o usuário. 🚀
+
+💬 Minha linguagem favorita é o **Java**, pela sua robustez, versatilidade e forte orientação a objetos, permitindo aplicar conceitos como:
+
+- 🧩 Herança  
+- 🔒 Encapsulamento  
+- 🧠 Abstração  
+- 🌀 Polimorfismo  
+
+> "A vida é curta, mas os bugs são eternos."  
+> ☕ Café. 💻 Código. 🔁 Repita.
+
+---
+
+## 🚀 Linguagens Mais Utilizadas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1DiogoRG&layout=compact&theme=radical" alt="Linguagens mais usadas">
+</p>
 
 ---
 
 ## 📚 Linguagens que conheço
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" />
+</p>
 
 ---
 
-## 🧩 Projetos em destaque
+## 🌟 Projetos em Destaque
 
-- 🔗 [Meu Portfólio](https://1diogorg.github.io/Portfolio/)
-- 🔗 [Meu Portfólio 0.3 - Atualizado](https://1diogorg.github.io/Portfolio-0.3/)
-- 🧮 [Calculadora 2.0](https://1diogorg.github.io/calculadora-2.0/)
-- 💌 [Cartão do Dia das Mães](https://1diogorg.github.io/Cart-o-Dia-das-M-es/)
-- 🛍️ [Loja Diio](https://1diogorg.github.io/Lojinha-0.2/)
-- 💻 [Loja PCs](https://1diogorg.github.io/loja-PCs/)
-- 📆 [Listas de Tarefas](https://1diogorg.github.io/Lista-Tarefas/)
-- 🍔 [App Delivery](https://1diogorg.github.io/Projeto-Figma/)
-- 🎵 [Spotify Gratis](https://1diogorg.github.io/Clone-spotify/)
-- Mais projetos depois...
+| Projeto | Link |
+|--------|------|
+| 💼 Portfólio | [Acessar](https://1diogorg.github.io/Portfolio/) |
+| 💼 Portfólio 0.3 (Atualizado) | [Acessar](https://1diogorg.github.io/Portfolio-0.3/) |
+| 🧮 Calculadora 2.0 | [Acessar](https://1diogorg.github.io/calculadora-2.0/) |
+| 💌 Cartão do Dia das Mães | [Acessar](https://1diogorg.github.io/Cart-o-Dia-das-M-es/) |
+| 🛍️ Loja Diio | [Acessar](https://1diogorg.github.io/Lojinha-0.2/) |
+| 💻 Loja PCs | [Acessar](https://1diogorg.github.io/loja-PCs/) |
+| ✅ Lista de Tarefas | [Acessar](https://1diogorg.github.io/Lista-Tarefas/) |
+| 🍔 App Delivery | [Acessar](https://1diogorg.github.io/Projeto-Figma/) |
+| 🎵 Clone Spotify | [Acessar](https://1diogorg.github.io/Clone-spotify/) |
+
+> Mais projetos incríveis estão a caminho... 🛠️
 
 ---
 
 ## 🤝 Meus Parceiros
 
-- 🍷 [@natanaelpc](https://github.com/natanaelpc)
-- 🍷 [@Petrusphp](https://github.com/Petrusphp)
-- 🍷 [@JVictor-08](https://github.com/JVictor-08)
+<p>
+  <a href="https://github.com/natanaelpc">🍷 @natanaelpc</a><br>
+  <a href="https://github.com/Petrusphp">🍷 @Petrusphp</a><br>
+  <a href="https://github.com/JVictor-08">🍷 @JVictor-08</a>
+</p>
 
 ---
 
-## 🛠️ Em breve...
+## 📌 Em breve...
 
-Mais projetos serão adicionados futuramente! 🚧
+Mais projetos e ideias sendo desenvolvidos!  
+Fique de olho! 🚧✨
+
+---
