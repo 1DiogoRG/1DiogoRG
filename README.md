@@ -71,7 +71,6 @@ Sou fã de soluções que unem funcionalidade, organização e uma boa experiên
 
 ## 📌 Em breve...
 
-Mais projetos e ideias sendo desenvolvidos!  
-Fique de olho! 🚧✨
+Mais projetos e ideias sendo desenvolvidos
 
 ---
