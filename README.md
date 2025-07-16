@@ -1,9 +1,5 @@
 <h1 align="center">👋 Bem-vindo(a) ao meu GitHub!</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+me+chamo+Diogo!;Desenvolvedor+Web+em+formação;Amante+de+Java,+café+e+código!&center=true&width=500&height=40&color=F11C1C&pause=1000" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧑‍💻 Sobre mim
