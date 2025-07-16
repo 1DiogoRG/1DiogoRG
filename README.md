@@ -43,7 +43,6 @@ Busco sempre evoluir como desenvolvedor, explorando o mundo da **Programação W
 
 | Projeto | Link |
 |--------|------|
-| 💼 Portfólio | [Acessar](https://1diogorg.github.io/Portfolio/) |
 | 💼 Portfólio 0.3 (Atualizado) | [Acessar](https://1diogorg.github.io/Portfolio-0.3/) |
 | 🧮 Calculadora 2.0 | [Acessar](https://1diogorg.github.io/calculadora-2.0/) |
 | 💌 Cartão do Dia das Mães | [Acessar](https://1diogorg.github.io/Cart-o-Dia-das-M-es/) |
