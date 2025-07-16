@@ -55,7 +55,7 @@ Sou fã de soluções que unem funcionalidade, organização e uma boa experiên
 | 🍔 App Delivery | [Acessar](https://1diogorg.github.io/Projeto-Figma/) |
 | 🎵 Clone Spotify | [Acessar](https://1diogorg.github.io/Clone-spotify/) |
 
-> Mais projetos incríveis estão a caminho... 🛠️
+> Mais projetos depois... 🛠️
 
 ---
 
