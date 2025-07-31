@@ -44,7 +44,6 @@ Busco sempre evoluir como desenvolvedor, explorando o mundo da **Programação W
 | Projeto | Link |
 |--------|------|
 | 💼 Portfólio 0.3 (Atualizado) | [Acessar](https://1diogorg.github.io/Portfolio-0.3/) |
-| 💌 Cartão do Dia das Mães | [Acessar](https://1diogorg.github.io/Cart-o-Dia-das-M-es/) |
 | 🛍️ Loja Diio | [Acessar](https://1diogorg.github.io/Lojinha-0.2/) |
 | 💻 Loja PCs | [Acessar](https://1diogorg.github.io/loja-PCs/) |
 | ✅ Lista de Tarefas | [Acessar](https://1diogorg.github.io/Lista-Tarefas/) |
