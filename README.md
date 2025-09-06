@@ -7,13 +7,6 @@
 Olá! Me chamo **Diogo**, tenho **16 anos** e sou um estudante apaixonado por tecnologia.  
 Busco sempre evoluir como desenvolvedor, explorando o mundo da **Programação Web**, **Banco de Dados** e **UX Design com Figma**.
 
-💬 Minha linguagem favorita é o **Java**, pela sua robustez, versatilidade e forte orientação a objetos, permitindo aplicar conceitos como:
-
-- 🧩 Herança  
-- 🔒 Encapsulamento  
-- 🧠 Abstração  
-- 🌀 Polimorfismo  
-
 > "A vida é curta, mas os bugs são eternos."  
 > ☕ Café. 💻 Código. 🔁 Repita.
 
