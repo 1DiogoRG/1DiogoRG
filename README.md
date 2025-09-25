@@ -40,7 +40,7 @@ Busco sempre evoluir como desenvolvedor, explorando o mundo da **Programação W
 | 🛍️ Loja Diio | [Acessar](https://1diogorg.github.io/Lojinha-0.2/) |
 | 💻 Loja PCs | [Acessar](https://1diogorg.github.io/loja-PCs/) |
 | ✅ Lista de Tarefas | [Acessar](https://1diogorg.github.io/Lista-Tarefas/) |
-| 🍔 App Delivery | [Acessar](https://1diogorg.github.io/Projeto-Figma/) |
+| 🍔 DeliveryApp | [Acessar](https://1diogorg.github.io/DeliveryApp/) |
 | 🎵 Clone Spotify | [Acessar](https://1diogorg.github.io/Clone-spotify/) |
 
 > Mais projetos depois... 🛠️
