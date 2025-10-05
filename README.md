@@ -42,6 +42,7 @@ Busco sempre evoluir como desenvolvedor, explorando o mundo da **Programação W
 | ✅ Lista de Tarefas | [Acessar](https://1diogorg.github.io/Lista-Tarefas/) |
 | 🍔 DeliveryApp | [Acessar](https://1diogorg.github.io/DeliveryApp/) |
 | 🎵 Clone Spotify | [Acessar](https://1diogorg.github.io/Clone-spotify/) |
+| 🩸 StrangerThings | [Acessar](https://1diogorg.github.io/StrangerThings/)
 
 > Mais projetos depois... 🛠️
 
