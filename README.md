@@ -12,7 +12,7 @@ Busco sempre evoluir como desenvolvedor, explorando o mundo da **Programação W
 
 ---
 
-## 🚀 Linguagens Mais Utilizadas
+## 🚀 Linguagens Que Mais Utilizei
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1DiogoRG&layout=compact&theme=radical" alt="Linguagens mais usadas">
