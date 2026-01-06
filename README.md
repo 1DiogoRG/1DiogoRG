@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Olá! Me chamo **Diogo**, tenho **16 anos** e sou um estudante apaixonado por tecnologia.  
+Olá! Me chamo **Diogo**, tenho **17 anos** e sou um estudante apaixonado por tecnologia.  
 Busco sempre evoluir como desenvolvedor, explorando o mundo da **Programação Web**, **Banco de Dados** e **UX Design com Figma**.
 
 > "A vida é curta, mas os bugs são eternos."  
