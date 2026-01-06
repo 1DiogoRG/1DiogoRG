@@ -5,7 +5,7 @@
 ## 🧑‍💻 Sobre mim
 
 Olá! Me chamo **Diogo**, tenho **17 anos** e sou um estudante apaixonado por tecnologia.  
-Busco sempre evoluir como desenvolvedor, explorando o mundo da **Programação Web**, **Banco de Dados** e **UX Design com Figma**.
+Busco sempre evoluir como desenvolvedor, explorando o mundo da **Programação**, **Banco de Dados**, **UI/UX Design com Figma**, **Desenvolvimento Mobile** e **Backend**.
 
 > "A vida é curta, mas os bugs são eternos."  
 > ☕ Café. 💻 Código. 🔁 Repita.
