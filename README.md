@@ -37,9 +37,6 @@ Busco sempre evoluir como desenvolvedor, explorando o mundo da **Programação**
 | Projeto | Link |
 |--------|------|
 | 💼 Portfólio 0.3 (Atualizado) | [Acessar](https://1diogorg.github.io/Portfolio-0.3/) |
-| 🛍️ Loja Diio | [Acessar](https://1diogorg.github.io/Lojinha-0.2/) |
-| 💻 Loja PCs | [Acessar](https://1diogorg.github.io/loja-PCs/) |
-| ✅ Lista de Tarefas | [Acessar](https://1diogorg.github.io/Lista-Tarefas/) |
 | 🍔 DeliveryApp | [Acessar](https://1diogorg.github.io/DeliveryApp/) |
 | ☕ CoffeeApp | [Acessar](https://1diogorg.github.io/CoffeeApp/) |
 | 🎵 Clone Spotify | [Acessar](https://1diogorg.github.io/Clone-spotify/) |
