@@ -4,12 +4,12 @@
 
 <p align="center">
   **Estudante de Tecnologia | 17 anos | Aspirante e tenho vontade de ser Desenvolvedor Full-Stack** <br> 
-  🚀 Apaixonado por fazer código e ideias em interfaces incríveis.
+  Apaixonado por fazer código e ideias em interfaces incríveis.
 </p>
 
 ---
 
-## 🧑‍💻 Sobre Mim
+## Sobre Mim
 
 Sou um estudante focado em evolução constante. Atualmente, mergulho no universo do **Desenvolvimento Mobile** e **Backend**, buscando sempre aplicar boas práticas de **UI/UX Design** em tudo que construo.
 
@@ -18,33 +18,33 @@ Sou um estudante focado em evolução constante. Atualmente, mergulho no univers
 
 ---
 
-## 🛠️ Habilidades & Tecnologias
+## Habilidades & Tecnologias
 
-### 🎨 Frontend & Design
+### Frontend & Design
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,figma" />
 </p>
 
-### 📱 Mobile & Backend
+### Mobile & Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dart,flutter,java,python" />
 </p>
 
-### 🕰️ Linguagens que já utilizei uma vez
+### Linguagens que já utilizei uma vez
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,ts,cs" />
 </p>
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1DiogoRG&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="180">
 </p>
 
 ---
 
-## 🌟 Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto | Link |
 | :--- | :--- |
@@ -55,7 +55,7 @@ Sou um estudante focado em evolução constante. Atualmente, mergulho no univers
 
 ---
 
-## 🤝 Conexões
+## Parceiros
 
 <p>
   <a href="https://github.com/natanaelpc">🍷 **@natanaelpc**</a> • 
