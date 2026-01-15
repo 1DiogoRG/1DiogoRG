@@ -22,7 +22,12 @@ Sou um estudante focado em evolução constante. Atualmente, mergulho no univers
 
 ### 📱 Mobile & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,java,c#,c++" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,java,python" />
+</p>
+
+### 🕰️ Linguagens que já utilizei uma vez
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,ts,csharp" />
 </p>
 
 ---
