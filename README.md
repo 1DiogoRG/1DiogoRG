@@ -4,7 +4,7 @@
 
 ---
 
-## 🧑‍💻 Sobre Mim
+## Sobre Mim
 
 Sou um estudante focado em evolução constante. Atualmente, mergulho no universo do **Desenvolvimento Mobile** e **Backend**, buscando sempre aplicar boas práticas de **UI/UX Design** em tudo que construo.
 
@@ -13,44 +13,44 @@ Sou um estudante focado em evolução constante. Atualmente, mergulho no univers
 
 ---
 
-## 🛠️ Habilidades & Tecnologias
+## Habilidades & Tecnologias
 
-### 🎨 Frontend & Design
+### Frontend & Design
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,figma" />
 </p>
 
-### 📱 Mobile & Backend
+### Mobile & Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dart,flutter,java,python" />
 </p>
 
-### 🕰️ Linguagens que já utilizei uma vez
+### Linguagens que já utilizei uma vez
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,ts,cs" />
 </p>
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1DiogoRG&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" height="150">
 </p>
 
 ---
 
-## 🌟 Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto | Link |
 | :--- | :--- |
-| 💼 **Portfólio 0.3** | [Acessar](https://1diogorg.github.io/Portfolio-0.3/) |
-| 🍔 **DeliveryApp** | [Acessar](https://1diogorg.github.io/DeliveryApp/) |
-| ☕ **CoffeeApp** | [Acessar](https://1diogorg.github.io/CoffeeApp/) |
-| 🎵 **Clone Spotify** | [Acessar](https://1diogorg.github.io/Clone-spotify/) |
+| **Portfólio 0.3** | [Acessar](https://1diogorg.github.io/Portfolio-0.3/) |
+| **App Delivery** | [Acessar](https://1diogorg.github.io/DeliveryApp/) |
+| **Coffee App** | [Acessar](https://1diogorg.github.io/CoffeeApp/) |
+| **Clone Spotify** | [Acessar](https://1diogorg.github.io/Clone-spotify/) |
 
 ---
 
-## 🤝 Conexões
+## Conexões
 
 <p>
   <a href="https://github.com/natanaelpc">🍷 @natanaelpc</a> • 
