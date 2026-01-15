@@ -22,7 +22,7 @@ Sou um estudante focado em evolução constante. Atualmente, mergulho no univers
 
 ### 📱 Mobile & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,java" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,java,c#,c++" />
 </p>
 
 ---
@@ -52,9 +52,3 @@ Sou um estudante focado em evolução constante. Atualmente, mergulho no univers
   <a href="https://github.com/Petrusphp">🍷 @Petrusphp</a> • 
   <a href="https://github.com/JVictor-08">🍷 @JVictor-08</a>
 </p>
-
----
-
-## 📌 Status
-- 🛠️ Trabalhando em: Projetos com **Flutter & Dart**.
-- 📗 Estudando: Estrutura de dados e APIs.
