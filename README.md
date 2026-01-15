@@ -27,7 +27,7 @@ Sou um estudante focado em evolução constante. Atualmente, mergulho no univers
 
 ### 🕰️ Linguagens que já utilizei uma vez
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,ts,csharp" />
+  <img src="https://skillicons.dev/icons?i=mysql,ts,cs" />
 </p>
 
 ---
