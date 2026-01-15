@@ -38,8 +38,13 @@ Sou um estudante focado em evolução constante. Atualmente, mergulho no univers
 ---
 
 ## Estatísticas
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1DiogoRG&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1DiogoRG&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="180">
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=1DiogoRG&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas Gerais" height="180">
 </p>
 
 ---
@@ -48,7 +53,7 @@ Sou um estudante focado em evolução constante. Atualmente, mergulho no univers
 
 | Projeto | Link |
 | :--- | :--- |
-| **Portfólio 0.3** | [Acessar](https://1diogorg.github.io/Portfolio-0.3/) |
+| **Portfólio 0.3** |  [Acessar](https://1diogorg.github.io/Portfolio-0.3/) |
 | **App Delivery** | [Acessar](https://1diogorg.github.io/DeliveryApp/) |
 | **Coffee App** | [Acessar](https://1diogorg.github.io/CoffeeApp/) |
 | **Clone Spotify** | [Acessar](https://1diogorg.github.io/Clone-spotify/) |
@@ -58,7 +63,7 @@ Sou um estudante focado em evolução constante. Atualmente, mergulho no univers
 ## Parceiros
 
 <p>
-  <a href="https://github.com/natanaelpc">🍷 **@natanaelpc**</a> • 
-  <a href="https://github.com/Petrusphp">🍷 **@Petrusphp**</a> • 
-  <a href="https://github.com/JVictor-08">🍷 **@JVictor-08**</a>
+  <a href="https://github.com/natanaelpc">🍷 @natanaelpc**</a> • 
+  <a href="https://github.com/Petrusphp">🍷 @Petrusphp**</a> • 
+  <a href="https://github.com/JVictor-08">🍷 @JVictor-08**</a>
 </p>
