@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Olá,%20eu%20sou%20o%20Diogo!&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20eu%20sou%20o%20Diogo!&fontSize=70&animation=fadeIn" />
 </div>
 
 <p align="center">
@@ -48,10 +48,10 @@ Sou um estudante focado em evolução constante. Atualmente, mergulho no univers
 
 | Projeto | Link |
 | :--- | :--- |
-| 💼 **Portfólio 0.3** | [Acessar](https://1diogorg.github.io/Portfolio-0.3/) |
-| 🍔 **App Delivery** | [Acessar](https://1diogorg.github.io/DeliveryApp/) |
-| ☕ **Coffee App** | [Acessar](https://1diogorg.github.io/CoffeeApp/) |
-| 🎵 **Clone Spotify** | [Acessar](https://1diogorg.github.io/Clone-spotify/) |
+| **Portfólio 0.3** | [Acessar](https://1diogorg.github.io/Portfolio-0.3/) |
+| **App Delivery** | [Acessar](https://1diogorg.github.io/DeliveryApp/) |
+| **Coffee App** | [Acessar](https://1diogorg.github.io/CoffeeApp/) |
+| **Clone Spotify** | [Acessar](https://1diogorg.github.io/Clone-spotify/) |
 
 ---
 
