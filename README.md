@@ -37,18 +37,6 @@ Sou um estudante focado em evolução constante. Atualmente, mergulho no univers
 
 ---
 
-## Estatísticas
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1DiogoRG&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="180">
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=1DiogoRG&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas Gerais" height="180">
-</p>
-
----
-
 ## Projetos em Destaque
 
 | Projeto | Link |
@@ -64,6 +52,6 @@ Sou um estudante focado em evolução constante. Atualmente, mergulho no univers
 
 <p>
   <a href="https://github.com/natanaelpc">🍷 @natanaelpc**</a> • 
-  <a href="https://github.com/Peterson">🍷 @Peterson**</a> • 
+  <a href="https://github.com/perteson">🍷 @perteson**</a> • 
   <a href="https://github.com/JVictor-08">🍷 @JVictor-08**</a>
 </p>
