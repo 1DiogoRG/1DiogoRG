@@ -64,6 +64,6 @@ Sou um estudante focado em evolução constante. Atualmente, mergulho no univers
 
 <p>
   <a href="https://github.com/natanaelpc">🍷 @natanaelpc**</a> • 
-  <a href="https://github.com/Petrusphp">🍷 @Petrusphp**</a> • 
+  <a href="https://github.com/Peterson">🍷 @Peterson**</a> • 
   <a href="https://github.com/JVictor-08">🍷 @JVictor-08**</a>
 </p>
