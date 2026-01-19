@@ -20,12 +20,12 @@ Sou um estudante focado em evolução constante. Atualmente, mergulho no univers
 
 ## Habilidades & Tecnologias
 
-### Frontend & Design
+### Frontend & Design - Sei usar
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,figma" />
 </p>
 
-### Mobile & Backend
+### Mobile & Backend - Sei usar
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dart,flutter,java,python" />
 </p>
