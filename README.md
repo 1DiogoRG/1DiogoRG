@@ -15,6 +15,13 @@ Sou um estudante focado em evolução constante. Atualmente, se aprofundo em **D
 
 > "A vida é curta, mas os bugs são eternos."
 
+´´´ bash
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
 ---
 
 ## Habilidades & Tecnologias
