@@ -43,6 +43,14 @@ public class Main {
 
 ---
 
+## Atualmente estudando
+
+- **Flutter & Dart** — desenvolvimento mobile focado em apps funcionais e bem estruturados  
+- **Backend** — Java, lógica de programação e construção de APIs  
+- **UI/UX Design** — aplicando boas práticas de design em projetos reais  
+
+---
+
 ## Projetos em Destaque
 
 | Projeto | Link |
