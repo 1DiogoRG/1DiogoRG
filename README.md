@@ -16,9 +16,9 @@ Sou um estudante focado em evolução constante. Atualmente, se aprofundo em **D
 > "A vida é curta, mas os bugs são eternos."
 
 ```java
-public class HelloWorld {
+public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        System.out.println("Hello World!");
     }
 }
 ```
