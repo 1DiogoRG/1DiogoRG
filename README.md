@@ -1,17 +1,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20eu%20sou%20o%20Diogo!&fontSize=70&animation=fadeIn" />
 </div>
-<!--
+
 <p align="center">
-  **Estudante de Tecnologia | 17 anos | Aspirante e tenho vontade de ser Desenvolvedor Full-Stack** <br> 
-  Apaixonado por fazer código e ideias em interfaces incríveis.
+  **Estudante de Tecnologia | 17 anos | Tenho vontade de ser Desenvolvedor Back-end** <br> 
+  Amo fazer código e ideias com interfaces.
 </p>
 
---- -->
+---
 
 ## Sobre Mim
 
-Sou um estudante focado em evolução constante. Atualmente, mergulho no universo do **Desenvolvimento Mobile** e **Backend**, buscando sempre aplicar boas práticas de **UI/UX Design** em tudo que construo.
+Sou um estudante focado em evolução constante. Atualmente, se aprofundo em **Desenvolvimento Mobile** e **Backend**, buscando sempre aplicar boas práticas de **UI/UX Design** em tudo que construo.
 
 > "A vida é curta, mas os bugs são eternos."
 
