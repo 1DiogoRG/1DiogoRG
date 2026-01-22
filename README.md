@@ -6,8 +6,8 @@
   **Estudante de Tecnologia | 17 anos | Aspirante e tenho vontade de ser Desenvolvedor Full-Stack** <br> 
   Apaixonado por fazer código e ideias em interfaces incríveis.
 </p>
--->
----
+
+--- -->
 
 ## Sobre Mim
 
