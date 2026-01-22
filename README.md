@@ -44,6 +44,7 @@ Sou um estudante focado em evolução constante. Atualmente, se aprofundo em **D
 | **App Delivery** | [Acessar](https://1diogorg.github.io/DeliveryApp/) |
 | **Coffee App** | [Acessar](https://1diogorg.github.io/CoffeeApp/) |
 | **Clone Spotify** | [Acessar](https://1diogorg.github.io/Clone-spotify/) |
+| **Wiki projeto** | [Acessar](https://1diogorg.github.io/projeto-estudo/) |
 
 ---
 
