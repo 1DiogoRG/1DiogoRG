@@ -67,6 +67,6 @@ public class Main {
 
 <p>
   <a href="https://github.com/natanaelpc">🍷 @natanaelpc**</a> • 
-  <a href="https://github.com/perteson">🍷 @perteson**</a> • 
+  <a href="https://github.com/PetrusTF1">🍷 @perteson**</a> • 
   <a href="https://github.com/JVictor-08">🍷 @JVictor-08**</a>
 </p>
