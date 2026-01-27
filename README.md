@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 width="550px">Olá, eu sou Diogo!</h1>
+  <h1>Olá, eu sou Diogo!</h1>
 </div>
 
 <p align="center">
