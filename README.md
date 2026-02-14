@@ -21,9 +21,7 @@ Atualmente mergulho fundo no mundo do **Desenvolvimento Mobile** e **Backend**, 
 
 ```java
 public class Diogo {
-
     public static void main(String[] args) {
-
         String stack = "Backend Developer";
         String focus = "Java & Spring Boot";
 
@@ -38,18 +36,29 @@ public class Diogo {
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cs" />
 </p>
 
-### Mobile & Design
+### Banco de Dados
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,figma" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Frontend & Outros
+### Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,mysql" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter" />
 </p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+### Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
 
 ---
 
