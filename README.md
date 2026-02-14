@@ -39,11 +39,6 @@ public class Diogo {
   <img src="https://skillicons.dev/icons?i=java,spring,python,cs" />
 </p>
 
-### Banco de Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
 ### Mobile
 <p>
   <img src="https://skillicons.dev/icons?i=dart,flutter" />
@@ -51,14 +46,8 @@ public class Diogo {
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 </p>
-
-### Design
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
 
 ---
 
