@@ -11,15 +11,6 @@
 
 ---
 
-## Sobre Mim
-
-Sou um estudante focado em evolução constante.  
-Atualmente estou estudando **Desenvolvimento Mobile** e **Backend**, buscando sempre aplicar boas práticas de **UI/UX Design** e **Clean Code** em tudo que construo.
-
-> "A vida é curta, mas os bugs são eternos."
-
----
-
 ## Tecnologias Principais
 
 ### Backend
@@ -36,15 +27,6 @@ Atualmente estou estudando **Desenvolvimento Mobile** e **Backend**, buscando se
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 </p>
-
----
-
-## Atualmente Estudando
-
-- **Flutter & Dart**
-- **Backend com Java**
-- **Spring Boot**
-- **UI/UX Design** 
 
 ---
 
