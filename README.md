@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou Diogo!</h1>
   <p><b>Estudante de Tecnologia | 17 anos | Futuro Desenvolvedor Back-end</b></p>
-  <p><i>"Amo transformar linhas de código em interfaces e soluções funcionais."</i></p>
 
   <a href="https://github.com/1diogorg">
     <img src="https://img.shields.io/badge/GitHub-Perfil-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -36,7 +35,7 @@ public class Diogo {
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,cs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python" />
 </p>
 
 ### Mobile
@@ -51,23 +50,12 @@ public class Diogo {
 
 ---
 
-## Estatísticas do GitHub
-
-<div align="center">
-  <img height="170em"
-       src="https://github-readme-stats.vercel.app/api?username=1diogorg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="170em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=1diogorg&layout=compact&langs_count=7&theme=dracula" />
-</div>
-
----
-
 ## Atualmente Estudando
 
-- **Flutter & Dart** — Apps funcionais, bonitos e bem estruturados  
-- **Backend com Java** — Lógica robusta e Orientação a Objetos  
-- **Spring Boot** — Criação de APIs RESTful escaláveis  
-- **UI/UX Design** — Aplicando usabilidade em projetos reais  
+- **Flutter & Dart**
+- **Backend com Java**
+- **Spring Boot**
+- **UI/UX Design** 
 
 ---
 
@@ -89,17 +77,17 @@ public class Diogo {
   <tr>
     <td align="center">
       <a href="https://github.com/natanaelpc">
-        <b>@natanaelpc</b>
+        <b>@natanael</b>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/PetrusTF1">
-        <b>@PetrusTF1</b>
+        <b>@petrus</b>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/JVictor-08">
-        <b>@JVictor-08</b>
+        <b>@JVictor</b>
       </a>
     </td>
   </tr>
