@@ -14,20 +14,9 @@
 ## Sobre Mim
 
 Sou um estudante focado em evolução constante.  
-Atualmente mergulho fundo no mundo do **Desenvolvimento Mobile** e **Backend**, buscando sempre aplicar boas práticas de **UI/UX Design** e **Clean Code** em tudo que construo.
+Atualmente estou estudando **Desenvolvimento Mobile** e **Backend**, buscando sempre aplicar boas práticas de **UI/UX Design** e **Clean Code** em tudo que construo.
 
 > "A vida é curta, mas os bugs são eternos."
-
-```java
-public class Diogo {
-    public static void main(String[] args) {
-        String stack = "Backend Developer";
-        String focus = "Java & Spring Boot";
-
-        System.out.println("Hello World! Focado em: " + focus);
-    }
-}
-```
 
 ---
 
