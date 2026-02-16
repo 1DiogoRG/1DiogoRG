@@ -15,7 +15,7 @@
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,node" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs" />
 </p>
 
 ### Mobile
