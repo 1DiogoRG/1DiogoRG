@@ -15,7 +15,7 @@
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,node" />
 </p>
 
 ### Mobile
@@ -34,7 +34,7 @@
 
 | Projeto         | Descrição                                | Link |
 |-----------------|------------------------------------------|------|
-| Portfólio 0.3   | Meu site pessoal atualizado              | [Acessar](https://1diogorg.github.io/Portfolio-0.3/) |
+| Portfólio       | Meu site pessoal atualizado              | [Acessar](https://1diogorg.github.io/Portfolio-0.3/) |
 | App Delivery    | Interface para aplicativo de entregas    | [Acessar](https://1diogorg.github.io/DeliveryApp/) |
 | Coffee App      | UI Design para uma cafeteria             | [Acessar](https://1diogorg.github.io/CoffeeApp/) |
 | Clone Spotify   | Recriação da interface do Spotify        | [Acessar](https://1diogorg.github.io/Clone-spotify/) |
